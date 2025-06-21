@@ -36,6 +36,8 @@ This project investigates the **optical performance** of a camera system by anal
 - Describes system response to edge features.
 - Important for evaluating imaging sharpness.
 
+---
+
 ## 🧪 Experimental Setup
 - Test chart: **USAF resolution target**
 - Camera with known sensor characteristics
@@ -49,6 +51,8 @@ This project investigates the **optical performance** of a camera system by anal
 - Evaluate OTF profiles at **0° and 20° field angles**.
 - Calculate the **System Transfer Function** for a **4.65 μm pixel size**.
 - Identify the spatial frequency corresponding to **50% contrast** in OTF.
+
+---
 
 ## 🔍 Evaluation
 
