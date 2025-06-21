@@ -7,7 +7,8 @@ This project investigates the **optical performance** of a camera system by anal
 
 ## Project Metadata
 
-- **Matriculation Number:** 221607  
+- **Author:** Brijeshkumar Vijaykumar Panchal
+- **Matriculation Number:** 221607
 - **Course:** Master of Mechatronics and Robotics  
 - **Semester:** Sommersemester 2024  
 - **Subject:** Optical Sensor
