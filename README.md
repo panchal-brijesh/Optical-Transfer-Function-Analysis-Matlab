@@ -11,7 +11,6 @@ This project investigates the **optical performance** of a camera system by anal
 - **Course:** Master of Mechatronics and Robotics  
 - **Semester:** Sommersemester 2024  
 - **Subject:** Optical Sensor
-- **Supervisor:** Prof. Dr.-Ing. Peter Ott (Heilbronn University)
 
 ---
 
@@ -59,6 +58,23 @@ This project investigates the **optical performance** of a camera system by anal
 ### 🔹 e-SFR (Edge Spatial Frequency Response)
 - Computed from captured edge images.
 - Compared with simulation results.
+
+---
+
+## 📁 Project Files Overview
+
+| File Name | Description |
+|----------|-------------|
+| `e-SFR.mlx` | Computes and evaluates the edge-based Spatial Frequency Response (eSFR). |
+| `esfr_measurement_and_simulation_with_microscope.mlx` | Performs eSFR measurement and simulation using a microscope. |
+| `esfr_measurement_and_simulation_without_microscope.mlx` | Performs eSFR measurement and simulation without using a microscope. |
+| `Evaluate the profile of the system transfer function for a pixel size of 4,65 μm.mlx` | Simulates the system transfer function considering the sensor’s pixel size. |
+| `Evaluate the profile of the system transfer function for field angle 0°.mlx` | Calculates the system transfer function at 0° field angle. |
+| `Evaluate the profile of the system transfer function for field angle 20°.mlx` | Calculates the system transfer function at 20° field angle. |
+| `Evaluate the profiles of the OTF for field angle 0°.mlx` | Analyzes the Optical Transfer Function (OTF) at 0° field angle. |
+| `Evaluate the profiles of the OTF for field angle 20°.mlx` | Analyzes the OTF at 20° field angle. |
+| `Evaluate the profiles of the OTF for field angles 0° and 20°.mlx` | Compares OTF profiles at 0° and 20° field angles. |
+| `Evaluation of the eSFR.mlx` | Final evaluation and visualization of the computed eSFR results. |
 
 ---
 
