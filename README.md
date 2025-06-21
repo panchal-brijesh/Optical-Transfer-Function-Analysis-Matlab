@@ -13,13 +13,15 @@ This project investigates the **optical performance** of a camera system by anal
 - **Subject:** Optical Sensor
 - **Supervisor:** Prof. Dr.-Ing. Peter Ott (Heilbronn University)
 
---
+---
 
 ## 🎯 Objectives
 - Measure and analyze the **Transfer Function** of a camera system.
 - Simulate lens behavior for various field angles.
 - Evaluate the impact of pixel size on system performance.
 - Extract experimental SFR using BMP image analysis.
+
+---
 
 ## 📚 Theoretical Background
 
@@ -39,6 +41,8 @@ This project investigates the **optical performance** of a camera system by anal
 - Test chart: **USAF resolution target**
 - Camera with known sensor characteristics
 - Evaluation via **MATLAB**
+
+---
 
 ## 🛠️ Simulation Tasks
 
@@ -63,7 +67,7 @@ This project combines theoretical modeling and practical image analysis to asses
 
 ---
 
-## ⚙️ Tools Used
+## Tools Used
 - **MATLAB** (for simulations, image processing, and plotting)
 - **BMP test images** for real-world evaluation
 - **USAF resolution chart** for system evaluation
